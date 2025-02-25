@@ -36,6 +36,17 @@ document.addEventListener('DOMContentLoaded', function () {
             </ul>
           </div>
         </div>
+        
+        <div class="accordion">
+          <input id="accordion-experimentals" type="checkbox" name="docs-accordion-checkbox" hidden="" checked="checked" />
+          <label class="accordion-header c-hand" for="accordion-experimentals">其他页面</label>
+          <div class="accordion-body">
+            <ul class="menu menu-nav">
+              <li class="menu-item"><a href="wedo.html">WeDo2.0</a></li>
+            </ul>
+          </div>
+        </div>
+        
       </div>
     </div>
 
