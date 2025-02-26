@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('sidebar').innerHTML = `  
 
     <div class="docs-brand"><a class="docs-logo" href="index.html">
-        <img src="img/spectre-logo.svg" alt="Spectre.css CSS Framework">
+        <img src="img/spectre-logo.svg" alt="YYDY777">
 
         <small class="label label-secondary text-bold">YYDY</small>
       </a>
